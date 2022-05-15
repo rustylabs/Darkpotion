@@ -1,0 +1,35 @@
+{
+    "name": "dark-potion",
+    "displayName": "Dark Potion",
+    "description": "A Dark Potion theme for vscode",
+    "version": "0.0.1",
+    "publisher": "rustylabs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rustylabs/darkpotion"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "dark potion",
+        "darkpotion",
+        "dark-potion",
+        "dark - potion"
+    ],
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Potion",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Potion-color-theme.json"
+            }
+        ]
+    }
+}

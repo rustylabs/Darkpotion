@@ -1,0 +1,14 @@
+{
+	"name"				: "dark-potion",
+	"version"			: "0.1.0",
+	"publisher"			: "rustylabs",
+	"engines"			: {"vscode": "^0.10.x"},
+	"license"			: "SEE LICENSE IN LICENSE",
+	"repository"		: {"type": "git", "url": "https://github.com/rustylabs/darkpotion.git"},
+	"description"		: "My custom theme based on bearded-theme-oceanic, this is just more blueer",
+	"homepage"			: "https://github.com/rustylabs/darkpotion/README.md",
+	"categories"		: ["Themes"],
+	
+	
+	"repository"		: {"type": "git", "url": "https://github.com/rustylabs/darkpotion.git"}
+}
