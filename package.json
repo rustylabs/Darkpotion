@@ -14,7 +14,11 @@
         "dark potion",
         "darkpotion",
         "dark-potion",
-        "dark - potion"
+        "dark - potion",
+        "beard",
+        "bearded",
+        "bearded theme",
+        "bearded-theme"
     ],
     "engines": {
         "vscode": "^1.60.0"
