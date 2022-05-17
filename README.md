@@ -8,3 +8,5 @@ I have made several changes to it.
 
 ## Screenshots
 ![GitHub Logo](/assets/screenshots/main.png)
+![GitHub Logo](/assets/screenshots/closer_shot.png)
+![GitHub Logo](/assets/screenshots/clock.png)
