@@ -91,8 +91,8 @@
        "editor.findMatchHighlightBorder":"#97c89240",
        "editor.foreground":"#D3DFDB",
        "editor.hoverHighlightBackground":"#97c89240",
-       "editor.lineHighlightBackground":"#97c8920c",
-       "editor.lineHighlightBorder":"#97c8921a",
+       "editor.lineHighlightBackground":"#c9c9c90c",
+       "editor.lineHighlightBorder":"#0000000c",
        "editor.rangeHighlightBackground":"#97c89220",
        "editor.selectionBackground":"#97c89225",
        "editor.selectionForeground":"#97c892",
@@ -298,7 +298,25 @@
        "titleBar.border":"#111C22"
     },
     "tokenColors":[
-       {
+        {
+            "scope": [
+                "constant.character.escape",
+            ],
+            "settings": {
+                "foreground": "#408669ff",
+            }
+        },
+        {
+            "scope":[
+                "constant.language",
+            ],
+            "settings": {
+            //"foreground": "#54adaaff",
+            "foreground": "#be5ed6ff",
+            //54ad5cff
+            }
+        },
+        {
           "scope":[
              "support.module.elm",
              "entity.other.inherited-class.python",
@@ -445,7 +463,8 @@
              "meta.directive.on.svelte entity.name.type.svelte"
           ],
           "settings":{
-             "foreground":"#fbc95a"
+             //"foreground":"#fbc95a"
+             "foreground":"#fbd883ff"
           }
        },
        {
@@ -464,7 +483,8 @@
              "entity.name.tag.yaml"
           ],
           "settings":{
-             "foreground":"#fbc95a"
+             //"foreground":"#fbc95a"
+             "foreground":"#ee5d64"
           }
        },
        {
