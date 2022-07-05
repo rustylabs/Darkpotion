@@ -2,3 +2,5 @@ git status
 git add <file>
 git commit -m ""
 git push --set-upstream origin main
+
+vsce package
