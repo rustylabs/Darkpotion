@@ -1,5 +1,5 @@
 # Darkpotion
-![GitHub Logo](/assets/icon_larger_display.png)
+![GitHub Logo](/assets/icon_larger.png)
 
 A custom theme for vscode.
 
