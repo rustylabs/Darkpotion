@@ -1,4 +1,4 @@
-{ // asd
+{
    "$schema":"vscode://schemas/color-theme",
    "name":"Dark Potion",
    "semanticHighlighting":true,
