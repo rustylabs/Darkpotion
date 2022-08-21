@@ -2,7 +2,7 @@
     "name": "dark-potion",
     "displayName": "Dark Potion",
     "description": "A Dark Potion theme for vscode",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "publisher": "rustylabs",
     "repository": {
         "type": "git",
