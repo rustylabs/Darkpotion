@@ -14,7 +14,7 @@ A custom theme for vscode.
 ### Icon
 ![GitHub Logo](/assets/mark.png)
 
-Icon created by Mark Barreto.
+Icon created by [Mark Barreto](https://www.behance.net/markbarreto).
 
 ### Original theme
 ![GitHub Logo](/assets/bearded-theme.png)
