@@ -301,6 +301,7 @@
    },
    "tokenColors":[
        // custom
+       /*
        {
            "scope": [
                "entity.name.function.macro.rust",
@@ -309,6 +310,17 @@
                "foreground": "#ee7980ff",
            },
        },
+       */
+
+       {
+         "scope": [
+             "entity.name.function.preprocessor",
+         ],
+         "settings": {
+             "foreground": "#59b2c8",
+         },
+       },
+
        {
            "scope": [
                "constant.character.escape",
