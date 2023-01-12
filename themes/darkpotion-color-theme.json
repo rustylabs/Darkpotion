@@ -993,7 +993,8 @@
             "constant.numeric"
          ],
          "settings":{
-            "foreground":"#549bcbff"
+            //"foreground":"#549bcbff"
+            "foreground":"#DC8255"
          }
       },
       {
